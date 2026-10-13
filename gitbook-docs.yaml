@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: SeemoAi Help Center
+  structure:
+    - type: space
+      key: space-help
+      title: SeemoAi Help Center
+      path: help
+      default: true
+      content:
+        directory: ./
+        language: en
